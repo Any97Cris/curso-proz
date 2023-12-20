@@ -1,0 +1,46 @@
+* {
+  font-family: 'Maven Pro', sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: lightgray;
+  display: flex;
+  justify-content: space-between;
+  padding: 16px;
+  margin-bottom: 16px;
+}
+
+nav {
+  /* background-color: #EF7D19; */
+}
+
+ul {
+  display: flex;
+  height: 100%;
+  align-items: center;
+}
+
+nav ul li {
+  padding-left: 16px;
+  list-style-type: none;
+}
+
+main section div {
+  background-image: url(img/bg_laranja.jpg);
+  margin: 20px;
+}
+
+section {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+div {
+  width: 300px;
+  height: 200px;
+  padding: 20px;
+  border-radius: 10px;
+}
+
