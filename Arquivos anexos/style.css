@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+}
+
+body {
+    background-color: rgb(230, 160, 230);
+}
+
+h1 {
+    color: white;
+}
+
+div {
+    background-color: rgb(174, 174, 252);
+}
+
+p{
+    background-color: green;
+}
+
