@@ -1,0 +1,2 @@
+Oracle = banco de dados relacional
+MySQL = banco de dados relacional
